@@ -1,5 +1,5 @@
 # Coffee Shop Website
-## This project is a responsive website for a coffee shop built with HTML and CSS. It is intended for learning purposes and it includes:
+## This project is a responsive website for a coffee shop built with HTML, CSS and Javascript. It is intended for learning purposes and it includes:
 
 <li>Home Page: A welcoming introduction to the coffee shop.
 <li>Menu Page: Detailed listings of coffee and snacks.
